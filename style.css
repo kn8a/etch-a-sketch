@@ -1,0 +1,17 @@
+.grid {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+        
+}
+.row {
+    border: 1px solid red;
+    display: flex;
+    flex: 1;
+}
+
+.cell {
+    border: 1px solid blue;
+    flex: 1;
+}
